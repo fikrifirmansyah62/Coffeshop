@@ -1,0 +1,19 @@
+@l!x0
+Toko      : YOS RESTO                   
+Alamat    : Jalan KH Mustafa No 56 ,Banj
+No. Telp  : (089) 563-582               
+
+No. Order : 20
+Tanggal   : 26-12-2020
+Kasir     : admin
+========================================
+Menu                 Harga Qty  Subtotal
+========================================
+PANCAKE COKELAT     15,000   1    15,000
+
+                   Sub Total :    15,000
+                       TOTAL :    15,000
+----------------------------------------
+Terima Kasih atas kunjungan Anda
+
+

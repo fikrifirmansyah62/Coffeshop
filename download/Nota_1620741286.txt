@@ -1,0 +1,19 @@
+@l!x0
+Toko      : So Thai                     
+Alamat    : Plaza Indonesia Lantai 1, Jl
+No. Telp  : +62-2129921935              
+
+No. Order : 17
+Tanggal   : 11-05-2021
+Kasir     : admin
+========================================
+Menu                 Harga Qty  Subtotal
+========================================
+JUS ALPUKAT          7,000   1     7,000
+
+                   Sub Total :     7,000
+                       TOTAL :     7,000
+----------------------------------------
+Terima Kasih atas kunjungan Anda
+
+

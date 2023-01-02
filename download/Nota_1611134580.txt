@@ -1,0 +1,19 @@
+@l!x0
+Toko      : SO THAI                     
+Alamat    : Jalan KH Mustafa No 56 ,Banj
+No. Telp  : (088) 563-582               
+
+No. Order : 2
+Tanggal   : 15-01-2021
+Kasir     : admin
+========================================
+Menu                 Harga Qty  Subtotal
+========================================
+STEAK PANGGANG      50,000   1    50,000
+
+                   Sub Total :    50,000
+                       TOTAL :    50,000
+----------------------------------------
+Terima Kasih atas kunjungan Anda
+
+

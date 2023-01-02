@@ -1,0 +1,21 @@
+@l!x0
+Toko      : Coffe Shop Viktor Universita
+Alamat    : Universitas Pamulang Viktor 
+No. Telp  : 021-4079000                 
+
+No. Order : 331
+Tanggal   : 26-11-2021
+Kasir     : 
+========================================
+Menu                 Harga Qty  Subtotal
+========================================
+ES KOPI CAPPUCINO   10,000   1    10,000
+ES TEH LEMON         5,000   1     5,000
+ES SUSU COKELAT     10,000   1    10,000
+
+                   Sub Total :    25,000
+                       TOTAL :    25,000
+----------------------------------------
+Terima Kasih atas kunjungan Anda
+
+

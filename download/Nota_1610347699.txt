@@ -1,0 +1,19 @@
+@l!x0
+Toko      : YOS RESTO                   
+Alamat    : Jalan KH Mustafa No 56 ,Banj
+No. Telp  : (089) 563-582               
+
+No. Order : 1
+Tanggal   : 11-01-2021
+Kasir     : admin
+========================================
+Menu                 Harga Qty  Subtotal
+========================================
+STRAWBERRY  SOFT    25,000   1    25,000
+
+                   Sub Total :    25,000
+                       TOTAL :    25,000
+----------------------------------------
+Terima Kasih atas kunjungan Anda
+
+

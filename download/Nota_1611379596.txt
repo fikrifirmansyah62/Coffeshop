@@ -1,0 +1,20 @@
+@l!x0
+Toko      : SO THAI                     
+Alamat    : Jalan KH Mustafa No 56 ,Banj
+No. Telp  : (088) 563-582               
+
+No. Order : 5
+Tanggal   : 23-01-2021
+Kasir     : kasir1
+========================================
+Menu                 Harga Qty  Subtotal
+========================================
+PIE COKELAT         10,000   1    10,000
+
+                   Sub Total :    10,000
+                      Diskon :         0
+                       TOTAL :    10,000
+----------------------------------------
+Terima Kasih atas kunjungan Anda
+
+

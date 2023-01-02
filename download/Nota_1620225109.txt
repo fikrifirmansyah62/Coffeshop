@@ -1,0 +1,19 @@
+@l!x0
+Toko      : SO THAI                     
+Alamat    : Jalan KH Mustafa No 56 ,Banj
+No. Telp  : (088) 563-582               
+
+No. Order : 13
+Tanggal   : 05-05-2021
+Kasir     : admin
+========================================
+Menu                 Harga Qty  Subtotal
+========================================
+ES TEH LEMON         5,000   1     5,000
+
+                   Sub Total :     5,000
+                       TOTAL :     5,000
+----------------------------------------
+Terima Kasih atas kunjungan Anda
+
+
